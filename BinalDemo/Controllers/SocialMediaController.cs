@@ -9,7 +9,7 @@ namespace BinalDemo.Controllers
     public class SocialMediaController : Controller
     {
         // GET: SocialMedia
-        public ActionResult Index()
+        public ActionResult SocialMedia()
         {
             return View();
         }
